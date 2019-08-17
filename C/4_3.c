@@ -1,7 +1,7 @@
 /*
 Kernighan & Ritchie Programming in C;
 Exercise # 4-3
-Polish Calculator
+Polish Notation Calculator
 */
 
 
