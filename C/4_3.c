@@ -1,3 +1,10 @@
+/*
+Kernighan & Ritchie Programming in C;
+Exercise # 4-3
+Polish Calculator
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
